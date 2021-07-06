@@ -1,0 +1,4 @@
+repository "TowerOfParadise@ssl://lonerzimmer@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/605381274" 
+     
